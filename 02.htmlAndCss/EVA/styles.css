@@ -1,0 +1,17 @@
+h1{
+    color: rgb(153, 19, 19);
+    background-color: rgb(221, 209, 209);
+}
+img{
+    border-radius: 10%;
+    border: 1px solid;
+    padding: 5px;
+  width: 150px;
+    background-color: rgb(105, 84, 84);
+    box-shadow: 1cm;
+    border: black;
+}
+h2 {
+    color: rgb(155, 20, 20) ;
+   background-color: rgb(221, 209, 209) ;
+}
